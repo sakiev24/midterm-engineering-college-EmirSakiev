@@ -33,6 +33,6 @@ Google Fonts: Roboto, Montserrat.
 Images: Unsplash (attribution-free), e.g., https://unsplash.com/photos/engineering-students (search "engineering", "graduation", "campus life").
 
 Live URL & Navigation
-Deployed via GitHub Pages at https://sakiev24.github.io/midterm-engineering-college-EmirSakiev. Used fixed top nav; mobile toggler for menu. Test on mobile (576px), tablet (768px), desktop (1200px+).
+Deployed via GitHub Pages at https://sakiev24.github.io/midterm-engineering-college-EmirSakiev. Used fixed top nav; mobile toggler for menu. Tested on mobile (576px), tablet (768px), desktop (1200px+).
 
 
